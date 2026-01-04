@@ -8,3 +8,5 @@ const footer = "Footer added";
 console.log(footer);
 const payment = "Payment Added";
 console.log(payment);
+
+const changes = "Changes added";
