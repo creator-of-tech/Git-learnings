@@ -10,3 +10,6 @@ const payment = "Payment Added";
 console.log(payment);
 
 const changes = "Changes added";
+
+// I am fixing a bug
+console.log("Bug fixed");
